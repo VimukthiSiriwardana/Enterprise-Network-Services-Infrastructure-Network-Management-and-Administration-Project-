@@ -310,7 +310,7 @@ Complete project documentation is available within the repository.
 
 ### Vimukthi Siriwardana
 
-**BSc (Hons) Information Technology**
+**BSc (Hons) in Information Technology**
 **Specialising in Computer Systems and Network Engineering (CSNE)**
 
 Sri Lanka Institute of Information Technology (SLIIT)
