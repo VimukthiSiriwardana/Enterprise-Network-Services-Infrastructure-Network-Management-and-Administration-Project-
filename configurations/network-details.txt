@@ -1,0 +1,11 @@
+Network Name: NMA-NET
+Network Range: 192.168.6.0/24
+
+CentOS Server:
+192.168.6.1
+
+Ubuntu Server:
+192.168.6.2
+
+DHCP Range:
+192.168.6.100 - 192.168.6.200

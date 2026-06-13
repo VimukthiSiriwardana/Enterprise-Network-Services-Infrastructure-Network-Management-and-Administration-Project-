@@ -1,0 +1,4 @@
+Domain: IT06.LOCAL
+Server Software: Active Directory
+Client Software: SSSD
+Authentication: Kerberos
