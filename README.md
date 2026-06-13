@@ -300,11 +300,9 @@ Through this project, practical experience was gained in:
 
 Complete project documentation is available within the repository.
 
-| Document            | Location                             |
-| ------------------- | ------------------------------------ |
-| Full Project Report | `docs/NMA_Project_Report_Vimukthi_Siriwardana.pdf` |
+📘 **Project Report**
 
----
+👉 [View Full Project Report](docs/NMA_Project_Report_Vimukthi_Siriwardana.pdf)
 
 ## 👤 Author
 
